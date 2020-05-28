@@ -1,5 +1,5 @@
-from pr1.cart import*
-from pr1.ean import*
+from cart import*
+from ean import*
 def main():
     a=[]
     file_in=open("file.txt","w")
